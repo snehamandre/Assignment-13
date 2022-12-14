@@ -1,6 +1,6 @@
 # Assignment-13
 
-##Run the following commands in two separate terminals
+## Run the following commands in two separate terminals
 
-###node server.js
-###npm start
+### node server.js
+### npm start
